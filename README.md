@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CreepCode/CreepCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+Hi there 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreepCode&hide=TeX&layout=compact&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreepCode&count_private=true&theme=tokyonight)
+
+</div>
